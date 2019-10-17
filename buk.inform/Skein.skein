@@ -1,0 +1,3307 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1491">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1491">
+        <command xml:space="preserve">buk</command>
+        <result xml:space="preserve">
+
+
+BuK
+An Interactive Fiction by Noah Pivnick
+Release 0 / Serial number 191017 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Driveway
+It's night. You've arrived at the cabin after a grueling drive through a heavy winter storm. You are standing in the driveway up to your knees in heavy wet snow. Beside you is a battered station wagon casting dim incandescent light from a single headlight onto a cabin perched on square posts driven like pilings into the ground. You are exhausted and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing and inside the cabin will be just as cold. You'll want to get a fire started as soon as possible.
+
+You can see snow and a station wagon (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1676"></child>
+            <child nodeId="node-1674"></child>
+            <child nodeId="node-1672"></child>
+            <child nodeId="node-1668"></child>
+            <child nodeId="node-1679"></child>
+            <child nodeId="node-1647"></child>
+            <child nodeId="node-1641"></child>
+            <child nodeId="node-1607"></child>
+            <child nodeId="node-1603"></child>
+            <child nodeId="node-1602"></child>
+            <child nodeId="node-1599"></child>
+            <child nodeId="node-1596"></child>
+            <child nodeId="node-1566"></child>
+            <child nodeId="node-1563"></child>
+            <child nodeId="node-1561"></child>
+            <child nodeId="node-1559"></child>
+            <child nodeId="node-1557"></child>
+            <child nodeId="node-1961"></child>
+            <child nodeId="node-1910"></child>
+            <child nodeId="node-1535"></child>
+            <child nodeId="node-1529"></child>
+            <child nodeId="node-1526"></child>
+            <child nodeId="node-1520"></child>
+            <child nodeId="node-1493"></child>
+            <child nodeId="node-1737"></child>
+            <child nodeId="node-1492"></child>
+        </children>
+    </item>
+    <item nodeId="node-1492">
+        <command xml:space="preserve">x the little boy</command>
+        <result xml:space="preserve">The little boy's name is Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1737">
+        <command xml:space="preserve">x snow</command>
+        <result xml:space="preserve">You see nothing special about snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1738"></child>
+        </children>
+    </item>
+    <item nodeId="node-1738">
+        <command xml:space="preserve">x station wagon</command>
+        <result xml:space="preserve">A mid-80"s Volvo 240 that's seen better days. The back gate is covered with a section of thick, translucent, plastic drop cloth and gaffers tape where the rear window would normally be. The front of the car on the passenger side is pretty well bashed in. Only the driver side headlight appears to be working. There's steam rising from underneath the crumpled hood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1739"></child>
+        </children>
+    </item>
+    <item nodeId="node-1739">
+        <command xml:space="preserve">look wagon</command>
+        <result xml:space="preserve">A mid-80"s Volvo 240 that's seen better days. The back gate is covered with a section of thick, translucent, plastic drop cloth and gaffers tape where the rear window would normally be. The front of the car on the passenger side is pretty well bashed in. Only the driver side headlight appears to be working. There's steam rising from underneath the crumpled hood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1740"></child>
+        </children>
+    </item>
+    <item nodeId="node-1740">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1741"></child>
+        </children>
+    </item>
+    <item nodeId="node-1741">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1742"></child>
+        </children>
+    </item>
+    <item nodeId="node-1742">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1743"></child>
+        </children>
+    </item>
+    <item nodeId="node-1743">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1744"></child>
+        </children>
+    </item>
+    <item nodeId="node-1744">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1745"></child>
+        </children>
+    </item>
+    <item nodeId="node-1745">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the Front Door)
+(first taking the Front Door)
+That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1746"></child>
+        </children>
+    </item>
+    <item nodeId="node-1746">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1747"></child>
+        </children>
+    </item>
+    <item nodeId="node-1747">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1748"></child>
+        </children>
+    </item>
+    <item nodeId="node-1748">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1749"></child>
+        </children>
+    </item>
+    <item nodeId="node-1749">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Driveway
+It's night. You've arrived at the cabin after a grueling drive through a heavy winter storm. You are standing in the driveway up to your knees in heavy wet snow. Beside you is a battered station wagon casting dim incandescent light from a single sad headlight onto a cabin floating above ground on square posts driven like pilings into the ground. You are exhausted and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing. The cabin will be no less cold. You'll want to get a fire started as soon as possible.
+
+You can see snow and a station wagon (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1750"></child>
+        </children>
+    </item>
+    <item nodeId="node-1750">
+        <command xml:space="preserve">open wagon</command>
+        <result xml:space="preserve">You open the station wagon, revealing a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1751"></child>
+        </children>
+    </item>
+    <item nodeId="node-1751">
+        <command xml:space="preserve">x keys</command>
+        <result xml:space="preserve">You see nothing special about the set of keys.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1752"></child>
+        </children>
+    </item>
+    <item nodeId="node-1752">
+        <command xml:space="preserve">x remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1753"></child>
+        </children>
+    </item>
+    <item nodeId="node-1753">
+        <command xml:space="preserve">x romulus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1754"></child>
+        </children>
+    </item>
+    <item nodeId="node-1754">
+        <command xml:space="preserve">x little boy</command>
+        <result xml:space="preserve">The little boy is asleep in the back seat. His name is Eli. He's nearly six years old and wearing a secondhand snowsuit that's still few sizes too big. Eli is not your child but you are his mom. It's complicated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1755"></child>
+        </children>
+    </item>
+    <item nodeId="node-1755">
+        <command xml:space="preserve">carry eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1756"></child>
+        </children>
+    </item>
+    <item nodeId="node-1756">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1757"></child>
+        </children>
+    </item>
+    <item nodeId="node-1757">
+        <command xml:space="preserve">take remus</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1758"></child>
+        </children>
+    </item>
+    <item nodeId="node-1758">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1759"></child>
+        </children>
+    </item>
+    <item nodeId="node-1759">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1760"></child>
+        </children>
+    </item>
+    <item nodeId="node-1760">
+        <command xml:space="preserve">enter wagon</command>
+        <result xml:space="preserve">You get into the station wagon.
+
+In the station wagon you can see Romulus and Remus.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1761"></child>
+        </children>
+    </item>
+    <item nodeId="node-1761">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">(first getting out of the station wagon)
+
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1787"></child>
+        </children>
+    </item>
+    <item nodeId="node-1787">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1788"></child>
+        </children>
+    </item>
+    <item nodeId="node-1788">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1789"></child>
+        </children>
+    </item>
+    <item nodeId="node-1789">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1790"></child>
+        </children>
+    </item>
+    <item nodeId="node-1790">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">The Front Door is heavy and slides to one side like a barn door. This was a cost saving decision. Doors on hinges are expensive -- especially exterior doors -- and need to be hung precisely. The door has a large window but the window is boarded up from the inside with a piece of plywood to keep out prying eyes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1791"></child>
+        </children>
+    </item>
+    <item nodeId="node-1791">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1792"></child>
+        </children>
+    </item>
+    <item nodeId="node-1792">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1793"></child>
+        </children>
+    </item>
+    <item nodeId="node-1793">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">What do you want to unlock the Front Door with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1794"></child>
+        </children>
+    </item>
+    <item nodeId="node-1794">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1795"></child>
+        </children>
+    </item>
+    <item nodeId="node-1795">
+        <command xml:space="preserve">enter</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1796"></child>
+        </children>
+    </item>
+    <item nodeId="node-1796">
+        <command xml:space="preserve">enter front hall</command>
+        <result xml:space="preserve">I only understood you as far as wanting to enter the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1797"></child>
+        </children>
+    </item>
+    <item nodeId="node-1797">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1798"></child>
+        </children>
+    </item>
+    <item nodeId="node-1798">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1836"></child>
+        </children>
+    </item>
+    <item nodeId="node-1836">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Utility Room
+You can see a breaker box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1837"></child>
+        </children>
+    </item>
+    <item nodeId="node-1837">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1838"></child>
+        </children>
+    </item>
+    <item nodeId="node-1838">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Eli's Room
+The rooms in the cabin are wainscoted with more sugar maple.
+
+You can see a bed (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1839"></child>
+        </children>
+    </item>
+    <item nodeId="node-1839">
+        <command xml:space="preserve">put eli in bed</command>
+        <result xml:space="preserve">You put the little boy into the bed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1840"></child>
+        </children>
+    </item>
+    <item nodeId="node-1840">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1841"></child>
+        </children>
+    </item>
+    <item nodeId="node-1841">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1842"></child>
+        </children>
+    </item>
+    <item nodeId="node-1842">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1843"></child>
+        </children>
+    </item>
+    <item nodeId="node-1843">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1844"></child>
+        </children>
+    </item>
+    <item nodeId="node-1844">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Eli's Room
+The rooms in the cabin are wainscoted with more sugar maple.
+
+You can see a bed (in which is a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1845"></child>
+        </children>
+    </item>
+    <item nodeId="node-1845">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1846"></child>
+        </children>
+    </item>
+    <item nodeId="node-1846">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1847"></child>
+        </children>
+    </item>
+    <item nodeId="node-1847">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1848"></child>
+        </children>
+    </item>
+    <item nodeId="node-1848">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1849"></child>
+        </children>
+    </item>
+    <item nodeId="node-1849">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1850"></child>
+        </children>
+    </item>
+    <item nodeId="node-1850">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1851"></child>
+        </children>
+    </item>
+    <item nodeId="node-1851">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1852"></child>
+        </children>
+    </item>
+    <item nodeId="node-1852">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1907"></child>
+        </children>
+    </item>
+    <item nodeId="node-1907">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Eli's Room
+The rooms in the cabin are wainscoted with more sugar maple.
+
+You can see a bed (in which is a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1908"></child>
+        </children>
+    </item>
+    <item nodeId="node-1908">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1909"></child>
+        </children>
+    </item>
+    <item nodeId="node-1909">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1493">
+        <command xml:space="preserve">x remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1494"></child>
+        </children>
+    </item>
+    <item nodeId="node-1494">
+        <command xml:space="preserve">x romulus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1495"></child>
+        </children>
+    </item>
+    <item nodeId="node-1495">
+        <command xml:space="preserve">x little boy</command>
+        <result xml:space="preserve">The little boy is asleep in the back seat. His name is Eli. He's almost seven years old and he's wearing a secondhand snowsuit that's few sizes too big for him. Eli is not your child but you are his mom. It's complicated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1496"></child>
+        </children>
+    </item>
+    <item nodeId="node-1496">
+        <command xml:space="preserve">x keys</command>
+        <result xml:space="preserve">You see nothing special about the set of keys.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1497"></child>
+        </children>
+    </item>
+    <item nodeId="node-1497">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">Snow: Taken.
+set of keys: Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1498"></child>
+        </children>
+    </item>
+    <item nodeId="node-1498">
+        <command xml:space="preserve">take eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1499"></child>
+        </children>
+    </item>
+    <item nodeId="node-1499">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneath the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1500"></child>
+        </children>
+    </item>
+    <item nodeId="node-1500">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1501"></child>
+        </children>
+    </item>
+    <item nodeId="node-1501">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1502"></child>
+        </children>
+    </item>
+    <item nodeId="node-1502">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1503"></child>
+        </children>
+    </item>
+    <item nodeId="node-1503">
+        <command xml:space="preserve">unlock the door with the keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1504"></child>
+        </children>
+    </item>
+    <item nodeId="node-1504">
+        <command xml:space="preserve">open the door</command>
+        <result xml:space="preserve">You open the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1505"></child>
+        </children>
+    </item>
+    <item nodeId="node-1505">
+        <command xml:space="preserve">x front door</command>
+        <result xml:space="preserve">The Front Door is heavy and slides to one side like a barn door. This was a cost saving decision. Doors on hinges are expensive -- especially exterior doors -- and need to be hung precisely. The door has a large window but the window is boarded up from the inside with a piece of plywood to keep out prying eyes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1506"></child>
+        </children>
+    </item>
+    <item nodeId="node-1506">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is built with sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1507"></child>
+        </children>
+    </item>
+    <item nodeId="node-1507">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (closed) and firewood here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1508"></child>
+        </children>
+    </item>
+    <item nodeId="node-1508">
+        <command xml:space="preserve">x wood</command>
+        <result xml:space="preserve">A large, cast iron stove made by Vermont Castings. It's a good stove, probably the single most expensive item in the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1509"></child>
+        </children>
+    </item>
+    <item nodeId="node-1509">
+        <command xml:space="preserve">take fire</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1510"></child>
+        </children>
+    </item>
+    <item nodeId="node-1510">
+        <command xml:space="preserve">take firewood</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1511"></child>
+        </children>
+    </item>
+    <item nodeId="node-1511">
+        <command xml:space="preserve">open stove</command>
+        <result xml:space="preserve">You open the Wood Burning Stove.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1512"></child>
+        </children>
+    </item>
+    <item nodeId="node-1512">
+        <command xml:space="preserve">x stove</command>
+        <result xml:space="preserve">A large, cast iron stove made by Vermont Castings. It's a good stove, probably the single most expensive item in the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1513"></child>
+        </children>
+    </item>
+    <item nodeId="node-1513">
+        <command xml:space="preserve">open stove</command>
+        <result xml:space="preserve">That's already open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1514"></child>
+        </children>
+    </item>
+    <item nodeId="node-1514">
+        <command xml:space="preserve">x stove</command>
+        <result xml:space="preserve">A large, cast iron stove made by Vermont Castings. It's a good stove, probably the single most expensive item in the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1515"></child>
+        </children>
+    </item>
+    <item nodeId="node-1515">
+        <command xml:space="preserve">open stove</command>
+        <result xml:space="preserve">That's already open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1516"></child>
+        </children>
+    </item>
+    <item nodeId="node-1516">
+        <command xml:space="preserve">put firewood in stove</command>
+        <result xml:space="preserve">You put firewood into the Wood Burning Stove.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1517"></child>
+        </children>
+    </item>
+    <item nodeId="node-1517">
+        <command xml:space="preserve">take maches</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1518"></child>
+        </children>
+    </item>
+    <item nodeId="node-1518">
+        <command xml:space="preserve">take matches</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1519"></child>
+        </children>
+    </item>
+    <item nodeId="node-1519">
+        <command xml:space="preserve">light firewood with matches</command>
+        <result xml:space="preserve">I only understood you as far as wanting to light firewood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1520">
+        <command xml:space="preserve">x fred</command>
+        <result xml:space="preserve">You see nothing special about Fred.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1521"></child>
+        </children>
+    </item>
+    <item nodeId="node-1521">
+        <command xml:space="preserve">take fred</command>
+        <result xml:space="preserve">I don't suppose Fred would care for that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1522"></child>
+        </children>
+    </item>
+    <item nodeId="node-1522">
+        <command xml:space="preserve">carry fred</command>
+        <result xml:space="preserve">I don't suppose Fred would care for that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1523"></child>
+        </children>
+    </item>
+    <item nodeId="node-1523">
+        <command xml:space="preserve">x fred</command>
+        <result xml:space="preserve">You see nothing special about Fred.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1524"></child>
+        </children>
+    </item>
+    <item nodeId="node-1524">
+        <command xml:space="preserve">x fred</command>
+        <result xml:space="preserve">You see nothing special about Fred.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1525"></child>
+        </children>
+    </item>
+    <item nodeId="node-1525">
+        <command xml:space="preserve">showme</command>
+        <result xml:space="preserve">Driveway - room
+    yourself - person
+    Snow
+    Station Wagon - open container
+        Fred - person
+            snow suit (worn)
+        set of keys
+        Romulus - animal
+        Remus - animal
+        little boy
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1526">
+        <command xml:space="preserve">x eli</command>
+        <result xml:space="preserve">The little boy is asleep in the back seat. He's wearing a snowsuit that's too big for him. His name is Eli and he's is seven years old. Eli is not your child but you are his mom. It's complicated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1527"></child>
+        </children>
+    </item>
+    <item nodeId="node-1527">
+        <command xml:space="preserve">carry eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1528"></child>
+        </children>
+    </item>
+    <item nodeId="node-1528">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1529">
+        <command xml:space="preserve">x Remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1530"></child>
+        </children>
+    </item>
+    <item nodeId="node-1530">
+        <command xml:space="preserve">x Remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1531"></child>
+        </children>
+    </item>
+    <item nodeId="node-1531">
+        <command xml:space="preserve">x eli</command>
+        <result xml:space="preserve">The little boy is asleep in the back seat. His name is Eli. He's almost seven years old and he's wearing a secondhand snowsuit that's few sizes too big for him. Eli is not your child but you are his mom. It's complicated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1532"></child>
+        </children>
+    </item>
+    <item nodeId="node-1532">
+        <command xml:space="preserve">x Romulus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1533"></child>
+        </children>
+    </item>
+    <item nodeId="node-1533">
+        <command xml:space="preserve">x remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1534"></child>
+        </children>
+    </item>
+    <item nodeId="node-1534">
+        <command xml:space="preserve">exit the wagon</command>
+        <result xml:space="preserve">You get off the Station Wagon.
+
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow and a Station Wagon (in which are a set of keys, Romulus, Remus and a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1535">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of weathered pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1536"></child>
+        </children>
+    </item>
+    <item nodeId="node-1536">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1554"></child>
+            <child nodeId="node-1542"></child>
+            <child nodeId="node-1537"></child>
+        </children>
+    </item>
+    <item nodeId="node-1537">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1538"></child>
+        </children>
+    </item>
+    <item nodeId="node-1538">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+front stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1539"></child>
+        </children>
+    </item>
+    <item nodeId="node-1539">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1540"></child>
+        </children>
+    </item>
+    <item nodeId="node-1540">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Driveway
+You can see the station wagon (in which are Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1541"></child>
+        </children>
+    </item>
+    <item nodeId="node-1541">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Driveway
+You can see the station wagon (in which are Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1542">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1543"></child>
+        </children>
+    </item>
+    <item nodeId="node-1543">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">The Front Door is heavy and slides to one side like a barn door. This was a financial decision. Regular doors on hinges are expensive and need to be hung properly. The door has a large window but the window is boarded up from the inside with a piece of plywood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1544"></child>
+        </children>
+    </item>
+    <item nodeId="node-1544">
+        <command xml:space="preserve">unlock the door</command>
+        <result xml:space="preserve">(with the Front Door)
+(first taking the Front Door)
+That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1545"></child>
+        </children>
+    </item>
+    <item nodeId="node-1545">
+        <command xml:space="preserve">open the door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1546"></child>
+        </children>
+    </item>
+    <item nodeId="node-1546">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of weathered pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1547"></child>
+        </children>
+    </item>
+    <item nodeId="node-1547">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty from the drive but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow and a Station Wagon (in which are a set of keys in the ignition, Romulus, Remus and a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1548"></child>
+        </children>
+    </item>
+    <item nodeId="node-1548">
+        <command xml:space="preserve">enter the wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys in the ignition, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1549"></child>
+        </children>
+    </item>
+    <item nodeId="node-1549">
+        <command xml:space="preserve">x the wagon</command>
+        <result xml:space="preserve">A mid-80"s Volvo 240 that's seen better days. A section of thick, translucent, plastic drop cloth has been maticulously gaffer taped to the back gate where the rear window would normally be. The front of car on the passenger side is pretty well bashed in. Only the drivers side headlight appears to be working. There's steam rising from underneath the crumpled hood.
+
+In the Station Wagon are a set of keys in the ignition, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1550"></child>
+        </children>
+    </item>
+    <item nodeId="node-1550">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1551"></child>
+        </children>
+    </item>
+    <item nodeId="node-1551">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">(first getting out of the Station Wagon)
+
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of weathered pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1552"></child>
+        </children>
+    </item>
+    <item nodeId="node-1552">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1553"></child>
+        </children>
+    </item>
+    <item nodeId="node-1553">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">(the set of keys in the ignition)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1554">
+        <command xml:space="preserve">exit the station wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1555"></child>
+        </children>
+    </item>
+    <item nodeId="node-1555">
+        <command xml:space="preserve">leave the station wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1556"></child>
+        </children>
+    </item>
+    <item nodeId="node-1556">
+        <command xml:space="preserve">get out of the station wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to get outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1910">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from six foot lengths of 2 x 12 inch unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1911"></child>
+        </children>
+    </item>
+    <item nodeId="node-1911">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they fell from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1912"></child>
+        </children>
+    </item>
+    <item nodeId="node-1912">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1913"></child>
+        </children>
+    </item>
+    <item nodeId="node-1913">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1914"></child>
+        </children>
+    </item>
+    <item nodeId="node-1914">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1915"></child>
+            <child nodeId="node-1952"></child>
+        </children>
+    </item>
+    <item nodeId="node-1952">
+        <command xml:space="preserve">purloin keys</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1953"></child>
+        </children>
+    </item>
+    <item nodeId="node-1953">
+        <command xml:space="preserve">purloin eli</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1954"></child>
+        </children>
+    </item>
+    <item nodeId="node-1954">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1955"></child>
+        </children>
+    </item>
+    <item nodeId="node-1955">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1956"></child>
+        </children>
+    </item>
+    <item nodeId="node-1956">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1957"></child>
+        </children>
+    </item>
+    <item nodeId="node-1957">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (closed) and firewood here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1958"></child>
+        </children>
+    </item>
+    <item nodeId="node-1958">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1959"></child>
+        </children>
+    </item>
+    <item nodeId="node-1959">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Eli's Room
+It's sparse for a child's room. The interior is wainscoted with more sugar maple, though Eli would never write on the walls. There's a small mattress on the floor.
+
+You can see a bed (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1960"></child>
+        </children>
+    </item>
+    <item nodeId="node-1960">
+        <command xml:space="preserve">put eli in bed</command>
+        <result xml:space="preserve">You put the little boy into the bed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1915">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1916"></child>
+        </children>
+    </item>
+    <item nodeId="node-1916">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Driveway
+It's night. You've arrived at the cabin after a grueling drive through a heavy winter storm. You are standing in the driveway up to your knees in heavy wet snow. Beside you is a battered station wagon casting dim incandescent light from a single sad headlight onto a cabin floating above ground on square posts driven like pilings into the ground. You are exhausted and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing. The cabin will be no less cold. You'll want to get a fire started as soon as possible.
+
+You can see snow and a station wagon (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1917"></child>
+        </children>
+    </item>
+    <item nodeId="node-1917">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1918"></child>
+        </children>
+    </item>
+    <item nodeId="node-1918">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1919"></child>
+        </children>
+    </item>
+    <item nodeId="node-1919">
+        <command xml:space="preserve">take eli</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1920"></child>
+        </children>
+    </item>
+    <item nodeId="node-1920">
+        <command xml:space="preserve">open wagon</command>
+        <result xml:space="preserve">You open the station wagon, revealing a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1921"></child>
+        </children>
+    </item>
+    <item nodeId="node-1921">
+        <command xml:space="preserve">take eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1922"></child>
+        </children>
+    </item>
+    <item nodeId="node-1922">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1923"></child>
+        </children>
+    </item>
+    <item nodeId="node-1923">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1924"></child>
+        </children>
+    </item>
+    <item nodeId="node-1924">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1925"></child>
+        </children>
+    </item>
+    <item nodeId="node-1925">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1926"></child>
+        </children>
+    </item>
+    <item nodeId="node-1926">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1927"></child>
+        </children>
+    </item>
+    <item nodeId="node-1927">
+        <command xml:space="preserve">unloack front door with keys</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1928"></child>
+        </children>
+    </item>
+    <item nodeId="node-1928">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1929"></child>
+        </children>
+    </item>
+    <item nodeId="node-1929">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1930"></child>
+        </children>
+    </item>
+    <item nodeId="node-1930">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Eli's Room
+The rooms in the cabin are wainscoted with more sugar maple.
+
+You can see a bed (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1931"></child>
+        </children>
+    </item>
+    <item nodeId="node-1931">
+        <command xml:space="preserve">put eli to bed</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1932"></child>
+        </children>
+    </item>
+    <item nodeId="node-1932">
+        <command xml:space="preserve">put eli in bed</command>
+        <result xml:space="preserve">You put the little boy into the bed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1933"></child>
+        </children>
+    </item>
+    <item nodeId="node-1933">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1934"></child>
+        </children>
+    </item>
+    <item nodeId="node-1934">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring Eli from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1935"></child>
+        </children>
+    </item>
+    <item nodeId="node-1935">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Eli's Room
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1936"></child>
+        </children>
+    </item>
+    <item nodeId="node-1936">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a set of keys
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1937"></child>
+        </children>
+    </item>
+    <item nodeId="node-1937">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Eli's Room
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1938"></child>
+        </children>
+    </item>
+    <item nodeId="node-1938">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Eli's Room
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1939"></child>
+        </children>
+    </item>
+    <item nodeId="node-1939">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Eli's Room
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1940"></child>
+        </children>
+    </item>
+    <item nodeId="node-1940">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Eli's Room
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1941"></child>
+        </children>
+    </item>
+    <item nodeId="node-1941">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Front Hall
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1942"></child>
+        </children>
+    </item>
+    <item nodeId="node-1942">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Utility Room
+You can see a breaker box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1943"></child>
+        </children>
+    </item>
+    <item nodeId="node-1943">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1944"></child>
+        </children>
+    </item>
+    <item nodeId="node-1944">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (closed) and firewood here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1945"></child>
+        </children>
+    </item>
+    <item nodeId="node-1945">
+        <command xml:space="preserve">x stove</command>
+        <result xml:space="preserve">A large, cast iron stove made by Vermont Castings. It's a good stove, probably the single most expensive item in the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1946"></child>
+        </children>
+    </item>
+    <item nodeId="node-1946">
+        <command xml:space="preserve">open stove</command>
+        <result xml:space="preserve">You open the Wood Burning Stove.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1961">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">snow: Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1962"></child>
+        </children>
+    </item>
+    <item nodeId="node-1962">
+        <command xml:space="preserve">open wagon</command>
+        <result xml:space="preserve">You open the station wagon, revealing a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1963"></child>
+        </children>
+    </item>
+    <item nodeId="node-1963">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">set of keys: Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1964"></child>
+        </children>
+    </item>
+    <item nodeId="node-1964">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Stairs are made from six foot lengths of 2 x 12 inch unfinished wood. A foot of snow has accumulated on each step. You know from experience there may very well be a slick of ice lurking beneath the snow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1965"></child>
+        </children>
+    </item>
+    <item nodeId="node-1965">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child might get hurt if they fell from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1966"></child>
+        </children>
+    </item>
+    <item nodeId="node-1966">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1967"></child>
+        </children>
+    </item>
+    <item nodeId="node-1967">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1968"></child>
+        </children>
+    </item>
+    <item nodeId="node-1968">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1969"></child>
+        </children>
+    </item>
+    <item nodeId="node-1969">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1970"></child>
+        </children>
+    </item>
+    <item nodeId="node-1970">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's cold outside. Best to bring the little boy from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1971"></child>
+        </children>
+    </item>
+    <item nodeId="node-1971">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a set of keys
+  snow
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1972"></child>
+        </children>
+    </item>
+    <item nodeId="node-1972">
+        <command xml:space="preserve">eat snow'</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1973"></child>
+        </children>
+    </item>
+    <item nodeId="node-1973">
+        <command xml:space="preserve">eat snow</command>
+        <result xml:space="preserve">You eat snow. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1974"></child>
+        </children>
+    </item>
+    <item nodeId="node-1974">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's cold outside. Best to bring the little boy from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1975"></child>
+        </children>
+    </item>
+    <item nodeId="node-1975">
+        <command xml:space="preserve">purloin eli</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1976"></child>
+        </children>
+    </item>
+    <item nodeId="node-1976">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+The floor is sugar maple, as is most of the cabin interior. Sugar maple is a hardwood indigenous to the area, which makes it affordable. Eli's room is to the west. The Utility Room is to the East. To the North is the Living Room.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1977"></child>
+        </children>
+    </item>
+    <item nodeId="node-1977">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Eli's Room
+It's sparse for a child's room. The interior is wainscoted with more sugar maple but Eli is a good boy, he would never write on the walls.
+
+You can see a small mattress (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1978"></child>
+        </children>
+    </item>
+    <item nodeId="node-1978">
+        <command xml:space="preserve">put eli in bed</command>
+        <result xml:space="preserve">You put the little boy into the small mattress.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1979"></child>
+        </children>
+    </item>
+    <item nodeId="node-1979">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's cold outside. Best to bring the little boy from the car first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1557">
+        <command xml:space="preserve">show me</command>
+        <result xml:space="preserve">What do you want to show yourself?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1558"></child>
+        </children>
+    </item>
+    <item nodeId="node-1558">
+        <command xml:space="preserve">showme</command>
+        <result xml:space="preserve">Driveway - room
+    Snow
+    Station Wagon - open container
+        yourself - person
+        set of keys
+        Romulus - animal
+        Remus - animal
+        little boy - person
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1559">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1560"></child>
+        </children>
+    </item>
+    <item nodeId="node-1560">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Driveway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1561">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">foot of the driveway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1562"></child>
+        </children>
+    </item>
+    <item nodeId="node-1562">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1563">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1564"></child>
+        </children>
+    </item>
+    <item nodeId="node-1564">
+        <command xml:space="preserve">open station wagon</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1565"></child>
+        </children>
+    </item>
+    <item nodeId="node-1565">
+        <command xml:space="preserve">enter station wagon</command>
+        <result xml:space="preserve">You get into the station wagon.
+
+In the station wagon you can see Romulus, Remus and Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1566">
+        <command xml:space="preserve">go to utility room</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1567"></child>
+        </children>
+    </item>
+    <item nodeId="node-1567">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">(first getting out of the Station Wagon)
+
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of unfinished pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1568"></child>
+        </children>
+    </item>
+    <item nodeId="node-1568">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1569"></child>
+        </children>
+    </item>
+    <item nodeId="node-1569">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1570"></child>
+        </children>
+    </item>
+    <item nodeId="node-1570">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1571"></child>
+        </children>
+    </item>
+    <item nodeId="node-1571">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1572"></child>
+        </children>
+    </item>
+    <item nodeId="node-1572">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of unfinished pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1573"></child>
+        </children>
+    </item>
+    <item nodeId="node-1573">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow and a Station Wagon (in which are a set of keys, Romulus, Remus and a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1574"></child>
+        </children>
+    </item>
+    <item nodeId="node-1574">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1575"></child>
+        </children>
+    </item>
+    <item nodeId="node-1575">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1576"></child>
+        </children>
+    </item>
+    <item nodeId="node-1576">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">Snow: Taken.
+Station Wagon: Taken.
+set of keys: Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1577"></child>
+        </children>
+    </item>
+    <item nodeId="node-1577">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of unfinished pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1578"></child>
+        </children>
+    </item>
+    <item nodeId="node-1578">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1579"></child>
+        </children>
+    </item>
+    <item nodeId="node-1579">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1580"></child>
+        </children>
+    </item>
+    <item nodeId="node-1580">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1581"></child>
+        </children>
+    </item>
+    <item nodeId="node-1581">
+        <command xml:space="preserve">uopen door</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1582"></child>
+        </children>
+    </item>
+    <item nodeId="node-1582">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">What do you want to unlock the Front Door with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1583"></child>
+        </children>
+    </item>
+    <item nodeId="node-1583">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1584"></child>
+        </children>
+    </item>
+    <item nodeId="node-1584">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1585"></child>
+        </children>
+    </item>
+    <item nodeId="node-1585">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">That's already open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1586"></child>
+        </children>
+    </item>
+    <item nodeId="node-1586">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1587"></child>
+        </children>
+    </item>
+    <item nodeId="node-1587">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1588"></child>
+        </children>
+    </item>
+    <item nodeId="node-1588">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1589"></child>
+        </children>
+    </item>
+    <item nodeId="node-1589">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Utility Room
+You can see a breaker box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1590"></child>
+        </children>
+    </item>
+    <item nodeId="node-1590">
+        <command xml:space="preserve">x beaker box</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1591"></child>
+        </children>
+    </item>
+    <item nodeId="node-1591">
+        <command xml:space="preserve">x breaker</command>
+        <result xml:space="preserve">(the breaker box)
+You see nothing special about the breaker box.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1592"></child>
+        </children>
+    </item>
+    <item nodeId="node-1592">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1593"></child>
+        </children>
+    </item>
+    <item nodeId="node-1593">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1594"></child>
+        </children>
+    </item>
+    <item nodeId="node-1594">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Living Room
+You can see a Wood Burning Stove (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1595"></child>
+        </children>
+    </item>
+    <item nodeId="node-1595">
+        <command xml:space="preserve">x living room</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1596">
+        <command xml:space="preserve">exit volvo</command>
+        <result xml:space="preserve">You get off the Station Wagon.
+
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow and a Station Wagon (in which are a set of keys, Romulus, Remus and a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1597"></child>
+        </children>
+    </item>
+    <item nodeId="node-1597">
+        <command xml:space="preserve">enter volvo</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1598"></child>
+        </children>
+    </item>
+    <item nodeId="node-1598">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">(first getting out of the Station Wagon)
+
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of unfinished pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1599">
+        <command xml:space="preserve">exit station</command>
+        <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1600"></child>
+        </children>
+    </item>
+    <item nodeId="node-1600">
+        <command xml:space="preserve">exit wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1601"></child>
+        </children>
+    </item>
+    <item nodeId="node-1601">
+        <command xml:space="preserve">exit vehicle</command>
+        <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1602">
+        <command xml:space="preserve">examine station wagon</command>
+        <result xml:space="preserve">A section of thick, translucent, plastic drop cloth has been maticulously gaffer taped to the back gate where the rear window would normally be.
+
+In the Station Wagon are a set of keys, Romulus, Remus and Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1603">
+        <command xml:space="preserve">examine little boy</command>
+        <result xml:space="preserve">The little boy's name is Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1604"></child>
+        </children>
+    </item>
+    <item nodeId="node-1604">
+        <command xml:space="preserve">x eli</command>
+        <result xml:space="preserve">The little boy's name is Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1605"></child>
+        </children>
+    </item>
+    <item nodeId="node-1605">
+        <command xml:space="preserve">remove hat from eli</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1606"></child>
+        </children>
+    </item>
+    <item nodeId="node-1606">
+        <command xml:space="preserve">showme</command>
+        <result xml:space="preserve">Driveway - room
+    yourself - person
+    Snow
+    Station Wagon - open container
+        set of keys
+        Romulus - animal
+        Remus - animal
+        little boy
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1607">
+        <command xml:space="preserve">enter the wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1638"></child>
+            <child nodeId="node-1611"></child>
+            <child nodeId="node-1608"></child>
+        </children>
+    </item>
+    <item nodeId="node-1608">
+        <command xml:space="preserve">open the wagon</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1609"></child>
+        </children>
+    </item>
+    <item nodeId="node-1609">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1610"></child>
+        </children>
+    </item>
+    <item nodeId="node-1610">
+        <command xml:space="preserve">y</command>
+        <result xml:space="preserve">
+
+
+Cabin in The Woods
+An Interactive Fiction by Noah Pivnick
+Release 1 / Serial number 191015 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. The snow is up to your knees and you are standing beside a battered station wagon. The station wagon's headlights are on casting their incandesent light onto a cabin floating above ground on posts driven deep into the ground.
+
+You can see a Station Wagon (in which are a set of keys, Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1611">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Driveway (in the Station Wagon)
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty from the drive but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow here.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1612"></child>
+        </children>
+    </item>
+    <item nodeId="node-1612">
+        <command xml:space="preserve">enter the wagon</command>
+        <result xml:space="preserve">But you're already in the Station Wagon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1613"></child>
+        </children>
+    </item>
+    <item nodeId="node-1613">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1614"></child>
+        </children>
+    </item>
+    <item nodeId="node-1614">
+        <command xml:space="preserve">reset</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1615"></child>
+        </children>
+    </item>
+    <item nodeId="node-1615">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1616"></child>
+        </children>
+    </item>
+    <item nodeId="node-1616">
+        <command xml:space="preserve">y</command>
+        <result xml:space="preserve">
+
+
+Cabin in The Woods
+An Interactive Fiction by Noah Pivnick
+Release 1 / Serial number 191015 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing in the driveway up to your knees in deep, heavy wet snow. Beside you is a battered station wagon casting dim incandesent light from a single headlight onto a cabin floating above ground on square posts that have been driven deep into the earth. You are tired and terribly thirsty from the drive but there's a lot to do before you can open the house and turn on the water. It's well below freezing and the cabin will be very cold. You'll want to get a fire started as soon as possible.
+
+You can see Snow and a Station Wagon (in which are a set of keys, Romulus, Remus and a little boy) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1617"></child>
+        </children>
+    </item>
+    <item nodeId="node-1617">
+        <command xml:space="preserve">eat snow</command>
+        <result xml:space="preserve">(first taking Snow)
+You eat Snow. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1618"></child>
+        </children>
+    </item>
+    <item nodeId="node-1618">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1619"></child>
+        </children>
+    </item>
+    <item nodeId="node-1619">
+        <command xml:space="preserve">put keys in station wagon</command>
+        <result xml:space="preserve">You put the set of keys into the Station Wagon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1620"></child>
+        </children>
+    </item>
+    <item nodeId="node-1620">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+The Front Deck is nearly eight feet off the ground, accessible by a rise of ten steps made from 2x12 inch boards of weathered pressure treated wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneach the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1621"></child>
+        </children>
+    </item>
+    <item nodeId="node-1621">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1622"></child>
+        </children>
+    </item>
+    <item nodeId="node-1622">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">(the Front Door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1623"></child>
+        </children>
+    </item>
+    <item nodeId="node-1623">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">The Front Door is heavy and slides to one side like a barn door. This was a financial decision. Regular doors on hinges are expensive and need to be hung properly. The door has a large window but the window is boarded up from the inside with a piece of plywood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1624"></child>
+        </children>
+    </item>
+    <item nodeId="node-1624">
+        <command xml:space="preserve">open the door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1625"></child>
+        </children>
+    </item>
+    <item nodeId="node-1625">
+        <command xml:space="preserve">unlock the door</command>
+        <result xml:space="preserve">(with the Front Door)
+(first taking the Front Door)
+That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1626"></child>
+        </children>
+    </item>
+    <item nodeId="node-1626">
+        <command xml:space="preserve">unlock the lock</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1627"></child>
+        </children>
+    </item>
+    <item nodeId="node-1627">
+        <command xml:space="preserve">purloin the keys</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1628"></child>
+        </children>
+    </item>
+    <item nodeId="node-1628">
+        <command xml:space="preserve">unlock the door</command>
+        <result xml:space="preserve">(with the set of keys)
+You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1629"></child>
+        </children>
+    </item>
+    <item nodeId="node-1629">
+        <command xml:space="preserve">open the door</command>
+        <result xml:space="preserve">You open the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1630"></child>
+        </children>
+    </item>
+    <item nodeId="node-1630">
+        <command xml:space="preserve">enter the house</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1631"></child>
+        </children>
+    </item>
+    <item nodeId="node-1631">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1632"></child>
+        </children>
+    </item>
+    <item nodeId="node-1632">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1633"></child>
+        </children>
+    </item>
+    <item nodeId="node-1633">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1634"></child>
+        </children>
+    </item>
+    <item nodeId="node-1634">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Eli's Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1635"></child>
+        </children>
+    </item>
+    <item nodeId="node-1635">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1636"></child>
+        </children>
+    </item>
+    <item nodeId="node-1636">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1637"></child>
+        </children>
+    </item>
+    <item nodeId="node-1637">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Utility Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1638">
+        <command xml:space="preserve">get into the wagon</command>
+        <result xml:space="preserve">But you're already in the Station Wagon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1639"></child>
+        </children>
+    </item>
+    <item nodeId="node-1639">
+        <command xml:space="preserve">get out of the wagon</command>
+        <result xml:space="preserve">You get off the Station Wagon.
+
+Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing beside a station wagon and the snow is up to your knees.
+
+You can see a Station Wagon (in which are a set of keys, Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1640"></child>
+        </children>
+    </item>
+    <item nodeId="node-1640">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. You are standing beside a station wagon and the snow is up to your knees.
+
+You can see a Station Wagon (in which are a set of keys, Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1641">
+        <command xml:space="preserve">enter the station wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see Romulus, Remus and Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1642"></child>
+        </children>
+    </item>
+    <item nodeId="node-1642">
+        <command xml:space="preserve">x eli</command>
+        <result xml:space="preserve">You see nothing special about Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1643"></child>
+        </children>
+    </item>
+    <item nodeId="node-1643">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs (in the Station Wagon)
+In the Station Wagon you can see Romulus, Remus and Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1644"></child>
+        </children>
+    </item>
+    <item nodeId="node-1644">
+        <command xml:space="preserve">take eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1645"></child>
+        </children>
+    </item>
+    <item nodeId="node-1645">
+        <command xml:space="preserve">exit station wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1646"></child>
+        </children>
+    </item>
+    <item nodeId="node-1646">
+        <command xml:space="preserve">leave station wagon</command>
+        <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1647">
+        <command xml:space="preserve">enter station wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1648"></child>
+        </children>
+    </item>
+    <item nodeId="node-1648">
+        <command xml:space="preserve">take eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1649"></child>
+        </children>
+    </item>
+    <item nodeId="node-1649">
+        <command xml:space="preserve">exit station wagon</command>
+        <result xml:space="preserve">You get off the Station Wagon.
+
+Driveway
+You can see a Station Wagon (in which are a set of keys, Romulus and Remus) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1650"></child>
+        </children>
+    </item>
+    <item nodeId="node-1650">
+        <command xml:space="preserve">up driveway</command>
+        <result xml:space="preserve">I only understood you as far as wanting to (go) up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1651"></child>
+        </children>
+    </item>
+    <item nodeId="node-1651">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1652"></child>
+        </children>
+    </item>
+    <item nodeId="node-1652">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1653"></child>
+        </children>
+    </item>
+    <item nodeId="node-1653">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1654"></child>
+        </children>
+    </item>
+    <item nodeId="node-1654">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1655"></child>
+        </children>
+    </item>
+    <item nodeId="node-1655">
+        <command xml:space="preserve">unlock front door</command>
+        <result xml:space="preserve">(with Eli)
+That doesn't seem to fit the lock.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1656"></child>
+        </children>
+    </item>
+    <item nodeId="node-1656">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Front Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1657"></child>
+        </children>
+    </item>
+    <item nodeId="node-1657">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Driveway
+You can see a Station Wagon (in which are a set of keys, Romulus and Remus) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1658"></child>
+        </children>
+    </item>
+    <item nodeId="node-1658">
+        <command xml:space="preserve">enter station wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus and Remus.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1659"></child>
+        </children>
+    </item>
+    <item nodeId="node-1659">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1660"></child>
+        </children>
+    </item>
+    <item nodeId="node-1660">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">You get out of the Station Wagon.
+
+Driveway
+You can see a Station Wagon (in which are Romulus and Remus) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1661"></child>
+        </children>
+    </item>
+    <item nodeId="node-1661">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1662"></child>
+        </children>
+    </item>
+    <item nodeId="node-1662">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1663"></child>
+        </children>
+    </item>
+    <item nodeId="node-1663">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1664"></child>
+        </children>
+    </item>
+    <item nodeId="node-1664">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">What do you want to unlock the Front Door with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1665"></child>
+        </children>
+    </item>
+    <item nodeId="node-1665">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1666"></child>
+        </children>
+    </item>
+    <item nodeId="node-1666">
+        <command xml:space="preserve">enter</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1667"></child>
+        </children>
+    </item>
+    <item nodeId="node-1667">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">(first opening the Front Door)
+
+Front Hall
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1679">
+        <command xml:space="preserve">enter station</command>
+        <result xml:space="preserve">You can't get into the closed Station Wagon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1680"></child>
+        </children>
+    </item>
+    <item nodeId="node-1680">
+        <command xml:space="preserve">open wagon</command>
+        <result xml:space="preserve">You open the Station Wagon, revealing a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1683"></child>
+        </children>
+    </item>
+    <item nodeId="node-1683">
+        <command xml:space="preserve">enter wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1687"></child>
+        </children>
+    </item>
+    <item nodeId="node-1687">
+        <command xml:space="preserve">x remus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1688"></child>
+        </children>
+    </item>
+    <item nodeId="node-1688">
+        <command xml:space="preserve">x romulus</command>
+        <result xml:space="preserve">A big dog. Half Belgian Shepard, half Newfoundland, and black as night. Romulus and Remus came from the same litter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1689"></child>
+        </children>
+    </item>
+    <item nodeId="node-1689">
+        <command xml:space="preserve">x keys</command>
+        <result xml:space="preserve">You see nothing special about the set of keys.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1690"></child>
+        </children>
+    </item>
+    <item nodeId="node-1690">
+        <command xml:space="preserve">x boy</command>
+        <result xml:space="preserve">The little boy is asleep in the back seat. His name is Eli. He's almost seven years old and he's wearing a secondhand snowsuit that's few sizes too big for him. Eli is not your child but you are his mom. It's complicated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1698"></child>
+        </children>
+    </item>
+    <item nodeId="node-1698">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">(first getting out of the Station Wagon)
+
+Front Stairs
+The Front Stairs are made from lengths of 2 x 12 inch planks of unfinished wood. A foot of snow has accumulated on each step. You know from experience there might very well be a slick of ice beneath the snow. Best to shift Eli's little body over your shoulder in a fireman's carry so you can hold onto the railing with one hand.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1699"></child>
+        </children>
+    </item>
+    <item nodeId="node-1699">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1700"></child>
+        </children>
+    </item>
+    <item nodeId="node-1700">
+        <command xml:space="preserve">purloin keys</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1701"></child>
+        </children>
+    </item>
+    <item nodeId="node-1701">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Front Deck
+The Front Deck is nearly eight feet off the ground. There is no railing. A child could get hurt if they went off the deck from this height.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1702"></child>
+        </children>
+    </item>
+    <item nodeId="node-1702">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1703"></child>
+        </children>
+    </item>
+    <item nodeId="node-1703">
+        <command xml:space="preserve">unlock door with keys</command>
+        <result xml:space="preserve">You unlock the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1704"></child>
+        </children>
+    </item>
+    <item nodeId="node-1704">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the Front Door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1705"></child>
+        </children>
+    </item>
+    <item nodeId="node-1705">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's best to get Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1706"></child>
+        </children>
+    </item>
+    <item nodeId="node-1706">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">It's best to get Eli.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1707"></child>
+        </children>
+    </item>
+    <item nodeId="node-1707">
+        <command xml:space="preserve">purloin eli</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1708"></child>
+        </children>
+    </item>
+    <item nodeId="node-1708">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is built with sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1709"></child>
+        </children>
+    </item>
+    <item nodeId="node-1709">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Living Room
+You can see a Wood Burning Stove (closed) and firewood here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1710"></child>
+        </children>
+    </item>
+    <item nodeId="node-1710">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Front Hall
+Most of the cabin interior is built with sugar maple, including the floor. Sugar Maple is a hardwood indigenous to the area, which makes it affordable.
+
+You can see a Front Door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1711"></child>
+        </children>
+    </item>
+    <item nodeId="node-1711">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1712"></child>
+        </children>
+    </item>
+    <item nodeId="node-1712">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1713"></child>
+        </children>
+    </item>
+    <item nodeId="node-1713">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1668">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1669"></child>
+        </children>
+    </item>
+    <item nodeId="node-1669">
+        <command xml:space="preserve">enter vehicle</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1670"></child>
+        </children>
+    </item>
+    <item nodeId="node-1670">
+        <command xml:space="preserve">x wagon</command>
+        <result xml:space="preserve">A late 80"s Volvo station wagon that's seen better days. A section of thick, translucent, plastic drop cloth has been maticulously gaffer taped to the back gate where the rear window would normally be. The front of car on the passenger side is pretty well bashed up and only one headlight appears to be working. There's steam rising from underneath the crumpled hood.
+
+In the Station Wagon are a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1671"></child>
+        </children>
+    </item>
+    <item nodeId="node-1671">
+        <command xml:space="preserve">get in wagon</command>
+        <result xml:space="preserve">You get into the Station Wagon.
+
+In the Station Wagon you can see a set of keys, Romulus, Remus and a little boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1672">
+        <command xml:space="preserve">eat snow</command>
+        <result xml:space="preserve">(first taking Snow)
+You eat Snow. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1673"></child>
+        </children>
+    </item>
+    <item nodeId="node-1673">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Driveway
+You've arrived at the cabin after a grueling winter drive through a heavy winter storm. The snow is up to your knees and you are standing beside a battered station wagon. The station wagon's headlights are on casting their incandesent light onto a cabin floating above ground on posts driven deep into the ground.
+
+You can see a Station Wagon (in which are a set of keys, Romulus, Remus and Eli) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1674">
+        <command xml:space="preserve">carry fred</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1675"></child>
+        </children>
+    </item>
+    <item nodeId="node-1675">
+        <command xml:space="preserve">carry eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1676">
+        <command xml:space="preserve">carry eli</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

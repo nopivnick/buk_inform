@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.inform"
+release to "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "BuK.gblorb"
+storyfile "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.inform/Build/output.ulx" include
+ifiction "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "13C147BB-E0DB-4D00-9115-6F3D3C3C7D70"
+placeholder [RELEASE] = "0"
+placeholder [YEAR] = "2019"
+placeholder [TITLE] = "BuK"
+placeholder [AUTHOR] = "Noah Pivnick"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "BuK.gblorb.js"
+template path "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.materials/Templates"
+template path "/Users/nopivnick/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.inform/Build/output.ulx" to "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.materials/Release/interpreter/BuK.gblorb.js"
+
+! Website instructions
+
+template path "/Volumes/GoogleDrive/My Drive/My-Education/itp/itp_masters/classes/2019_c - Fall/Computational Approaches to Narrative/assign-03_inform/buk.materials/Templates"
+template path "/Users/nopivnick/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line9"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
